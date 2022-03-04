@@ -2,8 +2,8 @@
 /**
  * Plugin Name: WPML Multilingual CMS
  * Plugin URI: https://wpml.org/
- * Description: WPML Multilingual CMS | <a href="https://wpml.org">Documentation</a> | <a href="https://wpml.org/version/wpml-4-5-2/">WPML 4.5.2 release notes</a>
- * Author: OnTheGoSystems
+ * Description: WPML Multilingual CMS | <a href="https://wpml.org">Documentation</a> | <a href="https://wpml.org/version/wpml-4-5-2/">WPML 4.5.2 release notes</a> | <b>Bypassed license by vatheara</b>
+ * Author: OnTheGoSystems ft vatheara
  * Author URI: http://www.onthegosystems.com/
  * Version: 4.5.3
  * Plugin Slug: sitepress-multilingual-cms
